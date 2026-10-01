@@ -1,0 +1,4 @@
+# Personal-reference test content (third-party material, local dev only, never commit or deploy)
+test-content/
+
+__pycache__/
